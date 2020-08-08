@@ -1,4 +1,22 @@
-### Hi there 👋
+# About me
+
+Hi there, my name is Federico Augello I'm 23 years old and I'm from Agrigento
+
+## My Education
+
+I'm a Computer Engineer graduated at @unipa
+
+## My work
+
+I'm working at Capgemini as a Software Engineer
+
+## Known Languages
+
+- Java
+- Python
+- C
+- Go
+- Bash
 
 <!--
 **Scaldabagno/Scaldabagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
