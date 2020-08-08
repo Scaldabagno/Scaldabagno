@@ -18,11 +18,10 @@ I'm working at Capgemini as a Software Engineer
 - Go
 - Bash
 
+<!--
 ## My Stats
-
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Scaldabagno" frameborder="0"></iframe>
 
-<!--
 **Scaldabagno/Scaldabagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
