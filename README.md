@@ -8,12 +8,12 @@ I'm a Computer Engineer graduated at @unipa
 
 ## My work
 
-I'm working at Capgemini as a Software Engineer
+I'm working at Capgemini as a Software/DevOps Engineer
 
 ## Known Languages
 
-- Java
 - Python
+- Java
 - C
 - Go
 - Bash
