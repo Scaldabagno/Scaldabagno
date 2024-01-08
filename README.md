@@ -1,6 +1,6 @@
 # About me
 
-Hi there, my name is Federico Augello I'm 25 years old and I'm from Agrigento
+Hi there, my name is Federico Augello I'm 27 years old and I'm from Agrigento
 
 ## My Education
 
