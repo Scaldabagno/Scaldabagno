@@ -1,6 +1,6 @@
 # About me
 
-Hi there, my name is Federico Augello I'm 27 years old and I'm from Agrigento
+Hi there, my name is Federico Augello I'm 28 years old and I'm from Agrigento
 
 ## My Education
 
@@ -8,7 +8,7 @@ I'm a Computer Engineer graduated at @unipa
 
 ## My work
 
-I'm working as a DevOps Engineer
+I'm working as a Cloud Architect and DevOps Engineer
 
 ## Known Languages
 
